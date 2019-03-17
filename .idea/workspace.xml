@@ -1,0 +1,1724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/DemoApplication.java" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efbbf081-d611-48f1-bd74-95a4356c3f6b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
+    <ignored path="$PROJECT_DIR$/activemq-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/activemq-producer/target/" />
+    <ignored path="$PROJECT_DIR$/activemq-consumer-b/target/" />
+    <ignored path="$PROJECT_DIR$/activemq-consumer-a/target/" />
+    <ignored path="$PROJECT_DIR$/redis-delayed-msg/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis-delayed-msg/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis-delayed-msg/src/main/java/com/lptree/redisdelayedmsg/redis/RedisUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="613" column="7" lean-forward="true" selection-start-line="613" selection-start-column="7" selection-end-line="613" selection-end-column="7" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1887#1888#0" expanded="true" />
+                <element signature="e#1956#1957#0" expanded="true" />
+                <element signature="e#2327#2357#0" expanded="true" />
+                <element signature="e#2824#2825#0" expanded="true" />
+                <element signature="e#2892#2893#0" expanded="true" />
+                <element signature="e#4629#4630#0" expanded="true" />
+                <element signature="e#4681#4682#0" expanded="true" />
+                <element signature="e#4823#4824#0" expanded="true" />
+                <element signature="e#4873#4874#0" expanded="true" />
+                <element signature="e#6860#6861#0" expanded="true" />
+                <element signature="e#6908#6909#0" expanded="true" />
+                <element signature="e#7099#7100#0" expanded="true" />
+                <element signature="e#7154#7155#0" expanded="true" />
+                <element signature="e#7363#7364#0" expanded="true" />
+                <element signature="e#7425#7426#0" expanded="true" />
+                <element signature="e#7611#7612#0" expanded="true" />
+                <element signature="e#7674#7675#0" expanded="true" />
+                <element signature="e#10454#10455#0" expanded="true" />
+                <element signature="e#10493#10494#0" expanded="true" />
+                <element signature="e#13658#13659#0" expanded="true" />
+                <element signature="e#13708#13709#0" expanded="true" />
+                <element signature="e#14031#14032#0" expanded="true" />
+                <element signature="e#14091#14092#0" expanded="true" />
+                <element signature="e#14673#14674#0" expanded="true" />
+                <element signature="e#14730#14731#0" expanded="true" />
+                <element signature="e#18124#18125#0" expanded="true" />
+                <element signature="e#18180#18181#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZSetOperations.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.5.RELEASE/spring-data-redis-2.1.5.RELEASE.jar!/org/springframework/data/redis/core/ZSetOperations.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="38" column="38" lean-forward="false" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Comparable.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/lang/Comparable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="73">
+              <caret line="95" column="17" lean-forward="false" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SendMsgService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis-delayed-msg/src/main/java/com/lptree/redisdelayedmsg/service/SendMsgService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SendMsgServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/redis-delayed-msg/src/main/java/com/lptree/redisdelayedmsg/service/impl/SendMsgServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashOperations.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.5.RELEASE/spring-data-redis-2.1.5.RELEASE.jar!/org/springframework/data/redis/core/HashOperations.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis-delayed-msg/src/main/java/com/lptree/redisdelayedmsg/redis/RedisConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="36" column="49" lean-forward="true" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+              <folding>
+                <element signature="e#1283#1291#0" expanded="true" />
+                <element signature="e#1625#1641#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisTemplate.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.5.RELEASE/spring-data-redis-2.1.5.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="801" column="33" lean-forward="false" selection-start-line="801" selection-start-column="33" selection-end-line="801" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SendMsgController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis-delayed-msg/src/main/java/com/lptree/redisdelayedmsg/controller/SendMsgController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#959#960#0" expanded="true" />
+                <element signature="e#1005#1006#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>re</find>
+      <find>serverSocket</find>
+      <find>invoke</find>
+      <find>put</find>
+      <find>sumCount</find>
+      <find>get</find>
+      <find>get(</find>
+      <find>put(</find>
+      <find>tailMap</find>
+      <find>current</find>
+      <find>equal</find>
+      <find>c</find>
+      <find>hashcode</find>
+      <find>Thread.currentThread</find>
+      <find>resize</find>
+      <find>hash</find>
+      <find>unsafe</find>
+      <find>U</find>
+      <find>sizeCtl</find>
+      <find>jmsListenerContainerQueue</find>
+      <find>local</find>
+      <find>readerLock</find>
+      <find>WriteLock</find>
+      <find>exclusiveCount</find>
+      <find>read</find>
+      <find>ReadLock</find>
+      <find>size</find>
+      <find>lock</find>
+      <find>count</find>
+      <find>object</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>String</replace>
+      <replace>object</replace>
+      <replace>Object</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/GeneralTypeTest.java" />
+        <option value="$PROJECT_DIR$/src/ConsistentHash/Node.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/ConsistentHash/Cluster.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/ConsistentHash/Node.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/ConsistentHash/NormalHashCluster.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/ConsistentHash/ConsistencyHashCluster.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/ConsistentHash/TestHash.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/dynamicProxyTest/cglibTest/Ship.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/dynamicProxyTest/cglibTest/ShipProxy.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/dynamicProxyTest/MyDynamicProxyTest.java" />
+        <option value="$PROJECT_DIR$/src/DateTimeTest.java" />
+        <option value="$PROJECT_DIR$/src/testNetty/NettyServer.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/testNetty/NettyServer.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/testNetty/ServerHandler.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/testNetty/NettyClient.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/A.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/testNetty/ClientHandler.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/testSkipList.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/testRedis/JedisRedisConfig.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/testRedis/AbstractRedisUtil.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/testRedis/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/testRedis/TestUtil.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/dynamicProxyTest/Test.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/testRedis/RedisProperties.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/testRedis/RedisTestUtil.java" />
+        <option value="$PROJECT_DIR$/activemq-consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/activemq-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/activemq-producer/src/main/java/com/lptree/activemqproducer/ActiveMQConfig.java" />
+        <option value="$PROJECT_DIR$/activemq-consumer/src/main/java/com/lptree/demo/ActiveMQConfig.java" />
+        <option value="$PROJECT_DIR$/activemq-producer/src/main/java/com/lptree/activemqproducer/PublishController.java" />
+        <option value="$PROJECT_DIR$/activemq-consumer/src/main/java/com/lptree/demo/QueueListener.java" />
+        <option value="$PROJECT_DIR$/activemq-consumer/src/main/java/com/lptree/demo/TopicListener.java" />
+        <option value="$PROJECT_DIR$/activemq-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/activemq-consumer-b/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/activemq-producer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/testRedis/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/activemq-consumer-b/src/main/java/com/lptree/activemqconsumerb/ActiveMQConfig.java" />
+        <option value="$PROJECT_DIR$/activemq-consumer-b/pom.xml" />
+        <option value="$PROJECT_DIR$/activemq-consumer-a/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/testDate.java" />
+        <option value="$PROJECT_DIR$/redis-delayed-msg/src/main/java/com/lptree/redisdelayedmsg/config/Swagger2Config.java" />
+        <option value="$PROJECT_DIR$/redis-delayed-msg/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-delayed-msg/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/redis-delayed-msg/src/main/java/com/lptree/redisdelayedmsg/redis/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/redis-delayed-msg/src/main/java/com/lptree/redisdelayedmsg/service/SendMsgService.java" />
+        <option value="$PROJECT_DIR$/redis-delayed-msg/src/main/java/com/lptree/redisdelayedmsg/controller/SendMsgController.java" />
+        <option value="$PROJECT_DIR$/redis-delayed-msg/src/main/java/com/lptree/redisdelayedmsg/redis/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/redis-delayed-msg/src/main/java/com/lptree/redisdelayedmsg/service/impl/SendMsgServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-delayed-msg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-delayed-msg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-delayed-msg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-delayed-msg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-delayed-msg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="redisdelayedmsg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-delayed-msg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="redisdelayedmsg" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-delayed-msg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="redisdelayedmsg" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-delayed-msg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="redisdelayedmsg" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-delayed-msg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="redisdelayedmsg" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-delayed-msg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="redisdelayedmsg" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-delayed-msg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../jx/MarktingService/HO-Mobile-2018-checkInAndSeat.git/SourceCode" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="SearchEverywhereHistoryKey" value="ConcurrentHashMap&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;ReentrantReadWriteLock &#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantReadWriteLock&#10;Thread&#9;PSI&#9;JAVA://java.lang.Thread" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lptree.demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Code\Java\TestJava\redis-delayed-msg\src\main\java\com\lptree\redisdelayedmsg\config" />
+      <recent name="F:\Code\Java\TestJava\redis-delayed-msg\src\main\java\com\lptree\redisdelayedmsg" />
+      <recent name="F:\Code\Java\TestJava\activemq-consumer-b\src\main\java\com\lptree\activemqconsumerb" />
+      <recent name="F:\Code\Java\TestJava\activemq-consumer-b\src\main\resources" />
+      <recent name="F:\Code\Java\TestJava" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lptree.activemqproducer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Code\Java\TestJava\activemq-consumer\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="ActivemqConsumerAApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lptree.activemqconsumera.ActivemqConsumerAApplication" />
+      <module name="activemq-consumer-a" />
+      <envs />
+    </configuration>
+    <configuration name="ActivemqConsumerBApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lptree.activemqconsumerb.ActivemqConsumerBApplication" />
+      <module name="activemq-consumer-b" />
+      <envs />
+    </configuration>
+    <configuration name="ActivemqProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lptree.activemqproducer.ActivemqProducerApplication" />
+      <module name="activemq-producer" />
+      <envs />
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lptree.demo.DemoApplication" />
+      <module name="demo" />
+      <envs />
+    </configuration>
+    <configuration name="RedisDelayedMsgApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lptree.redisdelayedmsg.RedisDelayedMsgApplication" />
+      <module name="redis-delayed-msg" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.DemoApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.ActivemqConsumerBApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.ActivemqProducerApplication" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.ActivemqConsumerAApplication" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.RedisDelayedMsgApplication" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efbbf081-d611-48f1-bd74-95a4356c3f6b" name="Default" comment="" />
+      <created>1537395154943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537395154943</updated>
+      <workItem from="1537395160134" duration="355000" />
+      <workItem from="1537481183462" duration="5357000" />
+      <workItem from="1537687171873" duration="22355000" />
+      <workItem from="1539183536408" duration="6876000" />
+      <workItem from="1539607344593" duration="14816000" />
+      <workItem from="1539784042265" duration="2277000" />
+      <workItem from="1540066943086" duration="6576000" />
+      <workItem from="1540605278063" duration="17612000" />
+      <workItem from="1541495996688" duration="4034000" />
+      <workItem from="1541500692059" duration="1344000" />
+      <workItem from="1552124444789" duration="5372000" />
+      <workItem from="1552423185091" duration="723000" />
+      <workItem from="1552730508891" duration="392000" />
+      <workItem from="1552823561669" duration="7864000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="95953000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25182483" sideWeight="0.50610685" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16717558" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.122262776" sideWeight="0.49694657" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16453382" sideWeight="0.49694657" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5182482" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.49694657" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30839694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13138686" sideWeight="0.49389312" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3583181" sideWeight="0.56564885" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/ConsistentHash/TestHash.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/ConsistentHash/TestHash.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/ConsistentHash/NormalHashCluster.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/ConsistentHash/TestHash.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/ConsistentHash/TestHash.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/testDate.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/testDate.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/testRedis/RedisTestUtil.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/testRedis/RedisTestUtil.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/DemoApplication.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.10.RELEASE/spring-data-redis-2.0.10.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class</url>
+          <line>390</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/testRedis/RedisConfig.java</url>
+          <line>124</line>
+          <properties class="com.lptree.demo.testRedis.RedisConfig" />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="28" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>ASHIFT</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String timestamp = new SimpleDateFormat(&quot;yyyy-MM-dd HH:mm:ss.SSS Z&quot;,                   Locale.ENGLISH).format(new Date());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>calendar.getTimeZone()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/activemq-producer/src/main/java/com/lptree/activemqproducer/ActivemqProducerApplication.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/jms/javax.jms-api/2.0.1/javax.jms-api-2.0.1.jar!/javax/jms/Topic.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-client/5.15.7/activemq-client-5.15.7.jar!/org/apache/activemq/command/ActiveMQTopic.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq-producer/src/main/java/com/lptree/activemqproducer/PublishController.java" />
+    <entry file="file://$PROJECT_DIR$/activemq-producer/src/main/java/com/lptree/activemqproducer/ActiveMQConfig.java" />
+    <entry file="file://$PROJECT_DIR$/activemq-producer/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/activemq-consumer/src/main/java/com/lptree/demo/ActiveMQConfig.java" />
+    <entry file="file://$PROJECT_DIR$/activemq-consumer/src/main/java/com/lptree/demo/TopicListener.java" />
+    <entry file="file://$PROJECT_DIR$/activemq-consumer/src/main/java/com/lptree/demo/QueueListener.java" />
+    <entry file="file://$PROJECT_DIR$/activemq-consumer-b/src/test/java/com/lptree/demo/DemoApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/activemq-consumer-b/src/main/java/com/lptree/demo/QueueListener.java" />
+    <entry file="file://$PROJECT_DIR$/activemq-consumer/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/activemq-consumer-b/src/main/java/com/lptree/activemqconsumerb/TopicListener.java" />
+    <entry file="file://$PROJECT_DIR$/activemq-consumer-b/src/main/java/com/lptree/activemqconsumerb/QueueListener.java" />
+    <entry file="file://$PROJECT_DIR$/activemq-producer/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/testRedis/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="121" column="15" lean-forward="false" selection-start-line="121" selection-start-column="15" selection-end-line="121" selection-end-column="15" />
+          <folding>
+            <element signature="e#3130#3141#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq-consumer/src/main/java/com/lptree/demo/DemoApplication.java" />
+    <entry file="file://$PROJECT_DIR$/demo/demo.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq-producer/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/activemq-consumer-b/src/main/java/com/lptree/activemqconsumerb/ActiveMQConfig.java" />
+    <entry file="file://$PROJECT_DIR$/activemq-consumer-b/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/activemq-consumer/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/activemq-consumer-b/src/main/java/com/lptree/activemqconsumerb/ActivemqConsumerBApplication.java" />
+    <entry file="file://$PROJECT_DIR$/TestJava.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq-consumer-b/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/activemq-consumer-a/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5125">
+          <caret line="272" column="74" lean-forward="false" selection-start-line="272" selection-start-column="7" selection-end-line="272" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3500">
+          <caret line="179" column="18" lean-forward="false" selection-start-line="179" selection-start-column="13" selection-end-line="179" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/lptree/demo/testDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3625">
+          <caret line="168" column="17" lean-forward="false" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13475">
+          <caret line="539" column="24" lean-forward="false" selection-start-line="539" selection-start-column="24" selection-end-line="539" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13500">
+          <caret line="578" column="30" lean-forward="false" selection-start-line="578" selection-start-column="30" selection-end-line="578" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6500">
+          <caret line="305" column="32" lean-forward="false" selection-start-line="305" selection-start-column="32" selection-end-line="305" selection-end-column="32" />
+          <folding>
+            <marker date="1517409729392" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1517409729392" expanded="false" signature="132:297" ph="..." />
+            <marker date="1517409729392" expanded="true" signature="1492:1499" ph="{}" />
+            <marker date="1517409729392" expanded="true" signature="1559:1787" ph="{...}" />
+            <marker date="1517409729392" expanded="true" signature="2950:2968" ph="/**...*/" />
+            <marker date="1517409729392" expanded="false" signature="3029:3040" ph=" { " />
+            <marker date="1517409729392" expanded="false" signature="3077:3083" ph=" }" />
+            <marker date="1517409729392" expanded="true" signature="3089:3107" ph="/**...*/" />
+            <marker date="1517409729392" expanded="false" signature="3179:3190" ph=" { " />
+            <marker date="1517409729392" expanded="false" signature="3226:3232" ph=" }" />
+            <marker date="1517409729392" expanded="true" signature="3238:3256" ph="/**...*/" />
+            <marker date="1517409729392" expanded="false" signature="3323:3334" ph=" { " />
+            <marker date="1517409729392" expanded="false" signature="3374:3380" ph=" }" />
+            <marker date="1517409729392" expanded="true" signature="3386:3404" ph="/**...*/" />
+            <marker date="1517409729392" expanded="false" signature="3482:3493" ph=" { " />
+            <marker date="1517409729392" expanded="false" signature="3532:3538" ph=" }" />
+            <marker date="1517409729392" expanded="true" signature="3544:3562" ph="/**...*/" />
+            <marker date="1517409729392" expanded="false" signature="3631:3642" ph=" { " />
+            <marker date="1517409729392" expanded="false" signature="3683:3689" ph=" }" />
+            <marker date="1517409729392" expanded="true" signature="3695:3713" ph="/**...*/" />
+            <marker date="1517409729392" expanded="false" signature="3793:3804" ph=" { " />
+            <marker date="1517409729392" expanded="false" signature="3844:3850" ph=" }" />
+            <marker date="1517409729392" expanded="true" signature="3856:3874" ph="/**...*/" />
+            <marker date="1517409729392" expanded="false" signature="3937:3948" ph=" { " />
+            <marker date="1517409729392" expanded="false" signature="3986:3992" ph=" }" />
+            <marker date="1517409729392" expanded="true" signature="3998:4016" ph="/**...*/" />
+            <marker date="1517409729392" expanded="false" signature="4090:4101" ph=" { " />
+            <marker date="1517409729392" expanded="false" signature="4138:4144" ph=" }" />
+            <marker date="1517409729392" expanded="true" signature="4150:4168" ph="/**...*/" />
+            <marker date="1517409729392" expanded="false" signature="4233:4244" ph=" { " />
+            <marker date="1517409729392" expanded="false" signature="4283:4289" ph=" }" />
+            <marker date="1517409729392" expanded="true" signature="4295:4313" ph="/**...*/" />
+            <marker date="1517409729392" expanded="false" signature="4389:4400" ph=" { " />
+            <marker date="1517409729392" expanded="false" signature="4438:4444" ph=" }" />
+            <marker date="1517409729392" expanded="true" signature="4450:4468" ph="/**...*/" />
+            <marker date="1517409729392" expanded="false" signature="4531:4542" ph=" { " />
+            <marker date="1517409729392" expanded="false" signature="4580:4586" ph=" }" />
+            <marker date="1517409729392" expanded="true" signature="4592:4610" ph="/**...*/" />
+            <marker date="1517409729392" expanded="false" signature="4684:4695" ph=" { " />
+            <marker date="1517409729392" expanded="false" signature="4732:4738" ph=" }" />
+            <marker date="1517409729392" expanded="true" signature="4744:4762" ph="/**...*/" />
+            <marker date="1517409729392" expanded="false" signature="4825:4836" ph=" { " />
+            <marker date="1517409729392" expanded="false" signature="4874:4880" ph=" }" />
+            <marker date="1517409729392" expanded="true" signature="4886:4904" ph="/**...*/" />
+            <marker date="1517409729392" expanded="false" signature="4978:4989" ph=" { " />
+            <marker date="1517409729392" expanded="false" signature="5026:5032" ph=" }" />
+            <marker date="1517409729392" expanded="true" signature="5038:5056" ph="/**...*/" />
+            <marker date="1517409729392" expanded="false" signature="5121:5132" ph=" { " />
+            <marker date="1517409729392" expanded="false" signature="5171:5177" ph=" }" />
+            <marker date="1517409729392" expanded="true" signature="5183:5201" ph="/**...*/" />
+            <marker date="1517409729392" expanded="false" signature="5277:5288" ph=" { " />
+            <marker date="1517409729392" expanded="false" signature="5326:5332" ph=" }" />
+            <marker date="1517409729392" expanded="true" signature="5338:5356" ph="/**...*/" />
+            <marker date="1517409729392" expanded="false" signature="5423:5434" ph=" { " />
+            <marker date="1517409729392" expanded="false" signature="5474:5480" ph=" }" />
+            <marker date="1517409729392" expanded="true" signature="5486:5504" ph="/**...*/" />
+            <marker date="1517409729392" expanded="false" signature="5582:5593" ph=" { " />
+            <marker date="1517409729392" expanded="false" signature="5632:5638" ph=" }" />
+            <marker date="1517409729392" expanded="false" signature="6704:6715" ph=" { " />
+            <marker date="1517409729392" expanded="false" signature="6762:6768" ph=" }" />
+            <marker date="1517409729392" expanded="true" signature="6925:7003" ph="{...}" />
+            <marker date="1517409729392" expanded="true" signature="7056:7074" ph="/**...*/" />
+            <marker date="1517409729392" expanded="true" signature="7130:7264" ph="{...}" />
+            <marker date="1517409729392" expanded="true" signature="7270:7288" ph="/**...*/" />
+            <marker date="1517409729392" expanded="true" signature="7354:7634" ph="{...}" />
+            <marker date="1517409729392" expanded="true" signature="8424:8442" ph="/**...*/" />
+            <marker date="1517409729392" expanded="true" signature="8514:8532" ph="/**...*/" />
+            <marker date="1517409729392" expanded="true" signature="8603:8621" ph="/**...*/" />
+            <marker date="1517409729392" expanded="true" signature="10811:10996" ph="{...}" />
+            <marker date="1517409729392" expanded="true" signature="11069:11257" ph="{...}" />
+            <marker date="1517409729392" expanded="true" signature="11327:11505" ph="{...}" />
+            <marker date="1517409729392" expanded="true" signature="11578:11759" ph="{...}" />
+            <marker date="1517409729392" expanded="true" signature="11838:12025" ph="{...}" />
+            <marker date="1517409729392" expanded="false" signature="12188:12199" ph=" { " />
+            <marker date="1517409729392" expanded="false" signature="12230:12236" ph=" }" />
+            <marker date="1517409729392" expanded="true" signature="12249:13814" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/jre/lib/rt.jar!/sun/misc/Contended.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <marker date="1517409729392" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1517409729392" expanded="false" signature="132:285" ph="..." />
+            <marker date="1517409729392" expanded="true" signature="287:369" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="2508" column="5" lean-forward="false" selection-start-line="2508" selection-start-column="5" selection-end-line="2508" selection-end-column="5" />
+          <folding>
+            <element signature="docComment;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#MAXIMUM_CAPACITY#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#DEFAULT_CAPACITY#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#MAX_ARRAY_SIZE#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#DEFAULT_CONCURRENCY_LEVEL#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#LOAD_FACTOR#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#TREEIFY_THRESHOLD#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#UNTREEIFY_THRESHOLD#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#MIN_TREEIFY_CAPACITY#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#MIN_TRANSFER_STRIDE#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#RESIZE_STAMP_BITS#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#MAX_RESIZERS#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#RESIZE_STAMP_SHIFT#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#NCPU#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#serialPersistentFields#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#Node#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getKey#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getValue#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#hashCode#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#toString#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#equals#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#find#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#find#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#spread#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#tableSizeFor#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#tableSizeFor#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#comparableClassFor#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#comparableClassFor#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#compareComparables#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compareComparables#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#tabAt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#casTabAt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#setTabAt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#table#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#nextTable#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#sizeCtl#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#transferIndex#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#cellsBusy#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#ConcurrentHashMap#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ConcurrentHashMap#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#ConcurrentHashMap#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ConcurrentHashMap#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#ConcurrentHashMap#2;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ConcurrentHashMap#2;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#ConcurrentHashMap#3;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#ConcurrentHashMap#4;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ConcurrentHashMap#4;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#size#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#size#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#isEmpty#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#get#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#get#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#containsKey#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#containsValue#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#containsValue#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#put#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#putVal#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#putVal#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#putAll#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#putAll#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#remove#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#replaceNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#replaceNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#clear#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#clear#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#keySet#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#keySet#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#values#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#values#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#entrySet#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#entrySet#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#hashCode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#toString#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#equals#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#Segment#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#Segment#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#Segment#0;class#Segment#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#writeObject#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#writeObject#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="e#59648#59682#0" expanded="false" />
+            <element signature="docComment;method#readObject#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#readObject#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#putIfAbsent#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#remove#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#remove#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#replace#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#replace#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#replace#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#replace#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#getOrDefault#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getOrDefault#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#replaceAll#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#computeIfAbsent#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#computeIfAbsent#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#computeIfPresent#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#computeIfPresent#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#compute#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#merge#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#merge#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#contains#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#keys#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#keys#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#elements#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#elements#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#mappingCount#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#mappingCount#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#newKeySet#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#newKeySet#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#newKeySet#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#newKeySet#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#keySet#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#keySet#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#ForwardingNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForwardingNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForwardingNode#0;class#ForwardingNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#find#0;class#ForwardingNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#ReservationNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ReservationNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#resizeStamp#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#initTable#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#initTable#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#addCount#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#addCount#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#helpTransfer#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#helpTransfer#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#tryPresize#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#tryPresize#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#transfer#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#transfer#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#treeifyBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#treeifyBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#untreeify#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#untreeify#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#TreeNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#TreeNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#TreeNode#0;class#TreeNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#findTreeNode#0;class#TreeNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#findTreeNode#0;class#TreeNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#tieBreakOrder#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#tieBreakOrder#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#TreeBin#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#TreeBin#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#lockRoot#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#lockRoot#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#unlockRoot#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#contendedLock#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#contendedLock#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#find#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#find#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#putTreeVal#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#putTreeVal#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#removeTreeNode#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#removeTreeNode#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#rotateLeft#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#rotateRight#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#balanceInsertion#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#balanceDeletion#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#checkInvariants#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#checkInvariants#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="initializer##0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#TableStack#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#TableStack#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#Traverser#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#advance#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#advance#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#pushState#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#pushState#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#recoverState#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#recoverState#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#BaseIterator#0;class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#hasNext#0;class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#hasMoreElements#0;class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#remove#0;class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#KeyIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#KeyIterator#0;class#KeyIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#next#0;class#KeyIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#nextElement#0;class#KeyIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ValueIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ValueIterator#0;class#ValueIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#next#0;class#ValueIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#nextElement#0;class#ValueIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#EntryIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#EntryIterator#0;class#EntryIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#next#0;class#EntryIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapEntry#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getKey#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getValue#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#hashCode#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#toString#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#equals#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#setValue#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#setValue#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#KeySpliterator#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#trySplit#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachRemaining#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#tryAdvance#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#estimateSize#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#characteristics#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ValueSpliterator#0;class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#trySplit#0;class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachRemaining#0;class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#tryAdvance#0;class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#estimateSize#0;class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#EntrySpliterator#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#trySplit#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachRemaining#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#tryAdvance#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#estimateSize#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#characteristics#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#batchFor#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#batchFor#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEach#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEach#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEach#2;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEach#2;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#search#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#search#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduce#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduce#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEachKey#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachKey#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEachKey#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachKey#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#searchKeys#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#searchKeys#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceKeys#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceKeys#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceKeys#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceKeys#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceKeysToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceKeysToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceKeysToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceKeysToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceKeysToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceKeysToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEachValue#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachValue#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEachValue#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachValue#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#searchValues#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#searchValues#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceValues#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceValues#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceValues#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceValues#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceValuesToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceValuesToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceValuesToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceValuesToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceValuesToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceValuesToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEachEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEachEntry#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachEntry#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#searchEntries#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#searchEntries#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceEntries#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceEntries#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceEntries#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceEntries#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceEntriesToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceEntriesToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceEntriesToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceEntriesToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceEntriesToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceEntriesToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#CollectionView#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#getMap#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getMap#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#clear#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#clear#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#size#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#isEmpty#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="e#182321#182386#0" expanded="false" />
+            <element signature="docComment;method#iterator#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#toArray#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#toArray#1;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#toString#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#containsAll#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#removeAll#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#retainAll#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#KeySetView#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#getMappedValue#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getMappedValue#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#contains#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#contains#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#remove#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#remove#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#iterator#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#iterator#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#add#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#add#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#addAll#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#addAll#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#hashCode#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#equals#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#spliterator#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ValuesView#0;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#remove#0;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#iterator#0;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#spliterator#0;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#EntrySetView#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#contains#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#remove#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#iterator#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#iterator#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#addAll#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#hashCode#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#equals#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#spliterator#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#BulkTask#0;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#advance#0;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#advance#0;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#pushState#0;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#recoverState#0;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachKeyTask#0;class#ForEachKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachValueTask#0;class#ForEachValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachEntryTask#0;class#ForEachEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachMappingTask#0;class#ForEachMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachTransformedKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachTransformedKeyTask#0;class#ForEachTransformedKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachTransformedKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachTransformedValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachTransformedValueTask#0;class#ForEachTransformedValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachTransformedValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachTransformedEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachTransformedEntryTask#0;class#ForEachTransformedEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachTransformedEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachTransformedMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachTransformedMappingTask#0;class#ForEachTransformedMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachTransformedMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#SearchKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#SearchKeysTask#0;class#SearchKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#SearchKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#SearchKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#SearchValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#SearchValuesTask#0;class#SearchValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#SearchValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#SearchValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#SearchEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#SearchEntriesTask#0;class#SearchEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#SearchEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#SearchEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#SearchMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#SearchMappingsTask#0;class#SearchMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#SearchMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#SearchMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ReduceKeysTask#0;class#ReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#ReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ReduceValuesTask#0;class#ReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#ReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ReduceEntriesTask#0;class#ReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#ReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceKeysTask#0;class#MapReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceValuesTask#0;class#MapReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceEntriesTask#0;class#MapReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceMappingsTask#0;class#MapReduceMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceKeysToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceKeysToDoubleTask#0;class#MapReduceKeysToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceKeysToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceKeysToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceValuesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceValuesToDoubleTask#0;class#MapReduceValuesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceValuesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceValuesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceEntriesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceEntriesToDoubleTask#0;class#MapReduceEntriesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceEntriesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceEntriesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceMappingsToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceMappingsToDoubleTask#0;class#MapReduceMappingsToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceMappingsToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceMappingsToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceKeysToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceKeysToLongTask#0;class#MapReduceKeysToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceKeysToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceKeysToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceValuesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceValuesToLongTask#0;class#MapReduceValuesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceValuesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceValuesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceEntriesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceEntriesToLongTask#0;class#MapReduceEntriesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceEntriesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceEntriesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceMappingsToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceMappingsToLongTask#0;class#MapReduceMappingsToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceMappingsToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceMappingsToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceKeysToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceKeysToIntTask#0;class#MapReduceKeysToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceKeysToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceKeysToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceValuesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceValuesToIntTask#0;class#MapReduceValuesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceValuesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceValuesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceEntriesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceEntriesToIntTask#0;class#MapReduceEntriesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceEntriesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceEntriesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceMappingsToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceMappingsToIntTask#0;class#MapReduceMappingsToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceMappingsToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceMappingsToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="initializer##0;class#ConcurrentHashMap#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-delayed-msg/src/main/java/com/lptree/redisdelayedmsg/RedisDelayedMsgApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-delayed-msg/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-delayed-msg/src/main/java/com/lptree/redisdelayedmsg/config/Swagger2Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="33" column="29" lean-forward="false" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.5.RELEASE/spring-data-redis-2.1.5.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="801" column="33" lean-forward="false" selection-start-line="801" selection-start-column="33" selection-end-line="801" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-delayed-msg/src/main/java/com/lptree/redisdelayedmsg/redis/AbstractRedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="776">
+          <caret line="93" column="75" lean-forward="true" selection-start-line="93" selection-start-column="75" selection-end-line="93" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-delayed-msg/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-delayed-msg/src/main/java/com/lptree/redisdelayedmsg/controller/SendMsgController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#1005#1006#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.5.RELEASE/spring-data-redis-2.1.5.RELEASE.jar!/org/springframework/data/redis/core/HashOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="95" column="17" lean-forward="false" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.5.RELEASE/spring-data-redis-2.1.5.RELEASE.jar!/org/springframework/data/redis/core/ZSetOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="38" column="38" lean-forward="false" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-delayed-msg/src/main/java/com/lptree/redisdelayedmsg/redis/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="36" column="49" lean-forward="true" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+          <folding>
+            <element signature="e#1283#1291#0" expanded="true" />
+            <element signature="e#1625#1641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-delayed-msg/src/main/java/com/lptree/redisdelayedmsg/service/SendMsgService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-delayed-msg/src/main/java/com/lptree/redisdelayedmsg/redis/RedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="613" column="7" lean-forward="true" selection-start-line="613" selection-start-column="7" selection-end-line="613" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1887#1888#0" expanded="true" />
+            <element signature="e#1956#1957#0" expanded="true" />
+            <element signature="e#2327#2357#0" expanded="true" />
+            <element signature="e#2824#2825#0" expanded="true" />
+            <element signature="e#2892#2893#0" expanded="true" />
+            <element signature="e#4629#4630#0" expanded="true" />
+            <element signature="e#4681#4682#0" expanded="true" />
+            <element signature="e#4823#4824#0" expanded="true" />
+            <element signature="e#4873#4874#0" expanded="true" />
+            <element signature="e#6860#6861#0" expanded="true" />
+            <element signature="e#6908#6909#0" expanded="true" />
+            <element signature="e#7099#7100#0" expanded="true" />
+            <element signature="e#7154#7155#0" expanded="true" />
+            <element signature="e#7363#7364#0" expanded="true" />
+            <element signature="e#7425#7426#0" expanded="true" />
+            <element signature="e#7611#7612#0" expanded="true" />
+            <element signature="e#7674#7675#0" expanded="true" />
+            <element signature="e#10454#10455#0" expanded="true" />
+            <element signature="e#10493#10494#0" expanded="true" />
+            <element signature="e#13658#13659#0" expanded="true" />
+            <element signature="e#13708#13709#0" expanded="true" />
+            <element signature="e#14031#14032#0" expanded="true" />
+            <element signature="e#14091#14092#0" expanded="true" />
+            <element signature="e#14673#14674#0" expanded="true" />
+            <element signature="e#14730#14731#0" expanded="true" />
+            <element signature="e#18124#18125#0" expanded="true" />
+            <element signature="e#18180#18181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-delayed-msg/src/main/java/com/lptree/redisdelayedmsg/service/impl/SendMsgServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cglib:cglib:3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
